@@ -2,8 +2,7 @@ Excited to share my latest project completed during my internship at CodersCave
 
 Project Description: 
 This project focuses on understanding and analyzing the Data Science Job Salaries in India
-Data set : It is taken from Kaggle
-Link : https://lnkd.in/gW9Vy8sn
+Data set : Kaggle
 Platform : Power BI
 
 Based on the provided dashboard for Salaries of Data Science jobs in India, here are some insights
