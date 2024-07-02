@@ -6,7 +6,6 @@ Data set : Kaggle
 Platform : Power BI
 
 Based on the provided dashboard for Salaries of Data Science jobs in India, here are some insights
-
 1. Top Companies by Sum of Salaries :
 Tata Consultancy Services leads with the highest sum of reported salaries.
 Accenture, IBM, Amazon, and Cognizant also show significant sums of reported salaries.
